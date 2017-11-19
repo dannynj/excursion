@@ -6,6 +6,7 @@ html {
   text-align: center;
 }
 
+
 h1, h2 {
   color: white;
 }
@@ -25,10 +26,20 @@ h3 {
   font-size: 21px;
 }
 
+p {
+  font-size: 16px;
+}
+
 a:default {
   color: aquamarine;
 }
 
 a:visited {
   color: aquamarine;
+}
+
+/* footer for copyright */
+.footer {
+  color: gray;
+  text-align: right;
 }
