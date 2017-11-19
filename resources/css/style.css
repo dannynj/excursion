@@ -1,16 +1,19 @@
 
 /* CSS element changes */
+
+/* global style changes */
 html {
   background-color: black;
   font-family: Verdana; sans-serif;
   text-align: center;
 }
 
-
+/* style changes for both main & 2nd heds */
 h1, h2 {
   color: white;
 }
 
+/* other style changes specific to these selectors */
 h1 {
   font-size: 50px;
   font-weight: normal;
@@ -30,6 +33,7 @@ p {
   font-size: 16px;
 }
 
+/* anchor colors follow CA example */
 a:default {
   color: aquamarine;
 }
