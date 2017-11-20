@@ -34,7 +34,7 @@ p {
 }
 
 /* anchor colors follow CA example */
-a:default {
+a:link {
   color: aquamarine;
 }
 
